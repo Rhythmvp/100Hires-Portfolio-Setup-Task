@@ -51,6 +51,15 @@ Tools Installed
  Step 5: Version Control
 Commands used:
 
+```bash
+git init
+git add .
+git commit -m "Initial setup documentation"
+git branch -M main
+git remote add origin <repository-url>
+git push -u origin main
+```
+
 I am a computer science major and i have been doing projects and collabs on github from a while
 henceforth didn't face any issues while performing this task.
 
